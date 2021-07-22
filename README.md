@@ -1,2 +1,2 @@
 # FlightPriceYatra
-Extract file price from Yatra using API
+Extract flight price from Yatra using API
